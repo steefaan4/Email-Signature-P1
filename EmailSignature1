@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style type="text/css">
+		@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+		body {
+			margin: 0;
+		}
+
+		table {
+			border-spacing: 0;
+		}
+
+		td {
+			padding: 0;
+		}
+
+		img {
+			border: 0;
+		}
+
+		.wrapper {
+			width: 100%;
+			table-layout: fixed;
+		}
+
+		.main {
+			width: 100%;
+			background-color: #ffffff;
+			font-family: 'Lato', Arial, Helvetica, sans-serif;
+			color: #282828;
+			text-align: left;
+		}
+	</style>
+</head>
+
+<body>
+
+	<center class="wrapper">
+
+		<table class="main" width="100%">
+
+			<tr>
+				<td style="padding: 20px 0 8px 10px;">
+					<img src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/850b6efc-0dda-5352-12fa-eec0c4fdec27.jpg"
+						alt="Harry Christmas" width="150"
+						style="display: block; outline: none; border: 0; border-radius: 5px;">
+				</td>
+			</tr>
+
+			<tr>
+				<td
+					style="font-size: 22px; line-height: 24px;font-weight: 700;padding: 5px 0 0 12px; text-align: left;">
+					Harry Christmas
+				</td>
+			</tr>
+
+			<tr>
+				<td
+					style="font-size: 16px;line-height: 18px;font-weight: 400; text-transform: uppercase; letter-spacing: 2px; padding: 10px 0 0 12px;text-align: left;">
+					Email
+					Developer</td>
+			</tr>
+
+			<tr>
+				<td style="padding: 0;">
+					<table width="100%">
+						<tr>
+							<td style="padding: 8px 0 0 10px;">
+								<a href="mailto:harry@website.com"><img
+										src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/300bd861-cc4e-843b-2a7f-e970420e52d1.png"
+										alt="Email Me" width="22" style="border: 0;"></a>
+								<a href="mailto:harry@website.com"
+									style="text-decoration: none; color: #282828;font-size: 16px;">
+									harry@website.com</a>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<tr>
+				<td style="padding: 0;">
+					<table width="100%">
+						<tr>
+							<td style="padding: 8px 0 0 10px;">
+								<a href="tel:1-800-888-8888"><img
+										src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/ca7ef390-a49f-0381-376f-151d062baecb.png"
+										alt="Call Me" width="22" style="border: 0;"></a>
+								<a href="tel:1-800-888-8888"
+									style="text-decoration: none; color: #282828;font-size: 16px;">1-800-888-8888</a>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<tr>
+				<td style="padding: 0;">
+					<table width="100%">
+						<tr>
+							<td style="padding: 5px 0 0 10px;">
+								<a href="https://website.com"><img
+										src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/4ae9958e-2183-1282-319f-f0325f3f650d.png"
+										alt="Website" width="22" style="border: 0;"></a>
+								<a href="https://website.com"
+									style="text-decoration: none; color: #282828;font-size: 16px;">www.website.com</a>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<tr>
+				<td style="padding: 0;">
+					<table width="100%">
+						<tr>
+							<td style="padding: 14px;">
+								<a href="#"><img
+										src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/093749d4-5713-ab20-d1f0-5c3e37bb4acb.png"
+										alt="Linkedin" width="30" style="border: 0;"></a>
+								<a href="#"><img
+										src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/744e6c0c-60e1-516f-48f2-f8b65c21ddc2.png"
+										alt="Twitter" width="30" style="border: 0;"></a>
+								<a href="#"><img
+										src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/85506bde-e262-c104-db89-1ac845ea1cb9.png"
+										alt="Youtube" width="30" style="border: 0;"></a>
+								<a href="#"><img
+										src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/ea7ce4c7-92e5-634f-3c24-71ad6c5e240a.png"
+										alt="Facebook" width="30" style="border: 0;"></a>
+								<a href="#"><img
+										src="https://mcusercontent.com/09880e4c03f92dac3c268f64c/images/9ad67d19-0926-ec5b-0919-9ab80e9667d0.png"
+										alt="Instagram" width="30" style="border: 0;"></a>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+		</table>
+
+	</center>
+
+</body>
+
+</html>
